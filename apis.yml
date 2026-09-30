@@ -1,23 +1,59 @@
 aid: bluetokaicoffeeroasters
 name: Bluetokaicoffeeroasters
-description: 'Bluetokaicoffeeroasters is a company surfaced via the API Evangelist harvest backlog (source:
-  secondary-market) and added to the network as a stub for full-pipeline profiling.'
+image: http://bluetokaicoffee.com/cdn/shop/files/og-image_fb86e907-95f5-4bce-a80f-c940e284474d.jpg?v=1692794605
+description: Blue Tokai Coffee Roasters is an Indian specialty coffee company founded in 2013, roasting and selling fresh coffee beans, capsules,
+  and ready‑to‑drink beverages. The company operates an e‑commerce site offering subscriptions, wholesale, and retail sales, and maintains a blog,
+  brewing guides, and community recipes. It provides a developer portal for its e‑commerce APIs, enabling partners to integrate product catalogs,
+  orders, and customer data.
 url: https://raw.githubusercontent.com/api-evangelist/bluetokaicoffeeroasters/refs/heads/main/apis.yml
 x-type: company
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-29 (modular-v1; was harvest)
 specificationVersion: '0.20'
 created: '2026-09-29'
 modified: '2026-09-29'
 tags:
-- Company
-apis: []
+- Coffee
+- E‑commerce
+- Specialty Coffee
+- India
+- Roasting
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: LLMsTxt
+  url: llms/bluetokaicoffeeroasters-llms.txt
+- type: WellKnown
+  url: well-known/bluetokaicoffeeroasters-well-known.yml
+- type: Hosts
+  url: hosts/bluetokaicoffeeroasters-hosts.yml
+- type: Vendors
+  url: vendors/bluetokaicoffeeroasters-vendors.yml
+- type: TermsOfService
+  url: https://bluetokaicoffee.com/pages/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://bluetokaicoffee.com/pages/privacy-policy
+- type: Newsroom
+  url: https://bluetokaicoffee.com/blogs/press
+- type: DomainSecurity
+  url: security/bluetokaicoffeeroasters-domain-security.yml
 - type: Website
-  url: https://equityzen.com/company/bluetokaicoffeeroasters
+  url: https://bluetokaicoffee.com
+apis:
+- name: Bluetokaicoffeeroasters API
+  description: GraphQL API for Bluetokaicoffeeroasters e‑commerce platform
+  humanURL: https://bluetokaicoffee.com
+  baseURL: https://bluetokaicoffee.com/api
+  type: graphql
+  properties: []
+  aid: bluetokaicoffeeroasters:bluetokaicoffeeroasters-api
+x-enrichment:
+  date: '2026-09-29'
+  status: enriched
+  artifacts_added: 9
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

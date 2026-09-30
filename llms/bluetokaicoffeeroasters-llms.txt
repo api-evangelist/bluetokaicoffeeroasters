@@ -1,0 +1,209 @@
+# Blue Tokai Coffee Roasters
+
+> Blue Tokai Coffee Roasters is an Indian specialty coffee roaster and retailer. We buy single-estate arabica directly from Indian farms, roast it fresh in small batches, and print the roast date on every bag. Use this file to find canonical product formats, roast levels, flavour profiles, brew-method collections, brewing guides, estate and provenance pages, and service pages. Proudly Indian. Honestly Crafted.
+
+Last reviewed: 2026-05-29
+
+## Site And Agent Discovery
+
+- Home: https://bluetokaicoffee.com/
+- Robots.txt: https://bluetokaicoffee.com/robots.txt
+- This file (llms.txt): https://bluetokaicoffee.com/llms.txt
+- Agent instructions (commerce + UCP): https://bluetokaicoffee.com/agents.md
+- XML sitemap index: https://bluetokaicoffee.com/sitemap.xml
+- Agentic discovery sitemap: https://bluetokaicoffee.com/sitemap_agentic_discovery.xml
+- Product sitemap: https://bluetokaicoffee.com/sitemap_products_1.xml
+- Page sitemap: https://bluetokaicoffee.com/sitemap_pages_1.xml
+- Collection sitemap: https://bluetokaicoffee.com/sitemap_collections_1.xml
+- Blog sitemap: https://bluetokaicoffee.com/sitemap_blogs_1.xml
+- HTML sitemap: https://bluetokaicoffee.com/pages/sitemap
+
+## Store Information
+
+- Store name: Blue Tokai Coffee Roasters
+- Website: https://bluetokaicoffee.com
+- Currency: INR
+- Country: India
+- Contact / customer support: https://bluetokaicoffee.com/pages/contact
+- FAQs: https://bluetokaicoffee.com/pages/faqs
+- Platform: Shopify
+
+## Agent Commerce
+
+This store implements the Universal Commerce Protocol (UCP) for agent-driven commerce. Full detail lives in https://bluetokaicoffee.com/agents.md.
+
+- UCP discovery: https://bluetokaicoffee.com/.well-known/ucp
+- UCP MCP endpoint for POST requests: https://bluetokaicoffee.com/api/ucp/mcp
+- Product JSON pattern: https://bluetokaicoffee.com/products/{handle}.json
+- Collection product JSON pattern: https://bluetokaicoffee.com/collections/{handle}/products.json
+- Search: https://bluetokaicoffee.com/search?q={query}&type=product
+- Personal-shopping agents may use the Shop skill (https://shop.app/SKILL.md) for buyer-approved Shop Pay checkout across Shopify stores.
+
+Agents must not complete checkout or payment without explicit buyer approval. Prices, inventory, roast availability, and serviceable pincodes change; fetch the product page, product JSON, or UCP endpoint at response time before giving transactional advice.
+
+## Shop By Format
+
+Blue Tokai coffee comes in five formats. Drop concentrates, Easy Pour, cold brew cans, and capsules are specialty coffee made convenient — they are not instant coffee.
+
+- Roasted & ground coffee and beans: https://bluetokaicoffee.com/collections/roasted-and-ground-coffee-beans
+- Whole coffee beans: https://bluetokaicoffee.com/collections/coffee-beans
+- Easy Pour (ready-to-brew bagged coffee): https://bluetokaicoffee.com/collections/easy-pour
+- Aluminium coffee capsules: https://bluetokaicoffee.com/collections/aluminium-coffee-capsule
+- Cold brew cans (ready to drink): https://bluetokaicoffee.com/collections/cold-brew-cans
+- Cold brew bags (brew at home): https://bluetokaicoffee.com/collections/cold-brew-coffee-bags
+- Drop specialty coffee concentrate: https://bluetokaicoffee.com/collections/drop-specialty-coffee-concentrate
+
+## Shop By Roast Level
+
+- Light roast: https://bluetokaicoffee.com/collections/light-roast
+- Medium roast: https://bluetokaicoffee.com/collections/medium-roast
+- Medium-dark roast: https://bluetokaicoffee.com/collections/medium-dark-roast
+- Dark roast: https://bluetokaicoffee.com/collections/dark-roast
+
+## Shop By Flavour Profile
+
+- Chocolatey & nutty: https://bluetokaicoffee.com/collections/chocolatey-nutty
+- Fruity & punchy: https://bluetokaicoffee.com/collections/fruity-punchy
+- Balanced: https://bluetokaicoffee.com/collections/balanced
+- Bold & bitter: https://bluetokaicoffee.com/collections/bold-and-bitter
+- Delicate & complex: https://bluetokaicoffee.com/collections/delicate-complex
+
+## Shop By Brew Method
+
+- Espresso: https://bluetokaicoffee.com/collections/espresso
+- Pour over: https://bluetokaicoffee.com/collections/pour-over
+- AeroPress: https://bluetokaicoffee.com/collections/aeropress-maker-coffee-collection
+- Moka pot: https://bluetokaicoffee.com/collections/moka-pot
+- South Indian filter: https://bluetokaicoffee.com/collections/south-indian-filter
+- Cold brew: https://bluetokaicoffee.com/collections/cold-brew
+
+## Shop By Processing
+
+- Washed: https://bluetokaicoffee.com/collections/washed
+- Natural: https://bluetokaicoffee.com/collections/natural
+
+## Curated & First-Time Buyer
+
+Curiosity is a good place to start — take your time finding the one.
+
+- Bestsellers: https://bluetokaicoffee.com/collections/bestsellers
+- New to coffee: https://bluetokaicoffee.com/collections/new-to-coffee
+- Customised sampler pack: https://bluetokaicoffee.com/collections/customised-sampler-pack
+- Starter packs: https://bluetokaicoffee.com/collections/starter-packs
+- No-equipment coffee: https://bluetokaicoffee.com/collections/no-equipment-collection
+
+## Subscriptions
+
+- All subscriptions: https://bluetokaicoffee.com/collections/subscriptions
+- Coffee subscription: https://bluetokaicoffee.com/collections/subscription-coffee
+- Subscription FAQ: https://bluetokaicoffee.com/pages/subscription-faq
+
+## Gifting
+
+- Gifts & hampers: https://bluetokaicoffee.com/collections/gifts-hampers
+- Coffee gift hampers: https://bluetokaicoffee.com/collections/coffee-gift-hampers
+- Gift subscriptions: https://bluetokaicoffee.com/collections/gift-subscriptions
+- Corporate gifting: https://bluetokaicoffee.com/collections/corporate-gifting
+- Gift card: https://bluetokaicoffee.com/pages/gift-card
+
+## Brewing Equipment & Accessories
+
+- Brewing equipment: https://bluetokaicoffee.com/collections/brewing-equipment-collection
+- Coffee grinders: https://bluetokaicoffee.com/collections/coffee-grinders
+- Brewing accessories: https://bluetokaicoffee.com/collections/brewing-accessories
+- Serveware & mugs: https://bluetokaicoffee.com/collections/serveware-mugs
+
+## Brewing Guides & Coffee Education
+
+- Brewing guide hub: https://bluetokaicoffee.com/pages/brewing-guide
+- French press: https://bluetokaicoffee.com/pages/how-to-make-coffee-from-frenchpress
+- AeroPress: https://bluetokaicoffee.com/pages/aeropress-brewing-guides
+- Inverted AeroPress: https://bluetokaicoffee.com/pages/how-to-make-coffee-from-inverted-aeropress
+- Pour over: https://bluetokaicoffee.com/pages/pourover-brewing-guides
+- Moka pot: https://bluetokaicoffee.com/pages/how-to-brew-coffee-with-a-moka-pot
+- South Indian filter: https://bluetokaicoffee.com/pages/how-to-make-coffee-from-south-indian-filter
+- Espresso machine: https://bluetokaicoffee.com/pages/how-to-make-coffee-from-espresso-machine
+- Cold brew at home: https://bluetokaicoffee.com/pages/how-to-make-cold-brew-coffee
+- Channi brewing: https://bluetokaicoffee.com/pages/channi-coffee-brewing-guides
+- Grind guide: https://bluetokaicoffee.com/pages/grind
+- Indian flavour wheel: https://bluetokaicoffee.com/pages/indian-flavour-wheel
+- Flavour guide for Indian coffee: https://bluetokaicoffee.com/pages/flavour-guide-for-indian-coffee
+
+## Our Coffee, Farms & Roasteries
+
+Sourced directly from India's best farms. We work with real, named estates — use them.
+
+- About us: https://bluetokaicoffee.com/pages/about-us
+- Who we are: https://bluetokaicoffee.com/pages/who-we-are
+- Our farms: https://bluetokaicoffee.com/pages/our-farms
+- Our roasteries: https://bluetokaicoffee.com/pages/our-roasteries
+- Our central washing station: https://bluetokaicoffee.com/pages/our-central-washing-station
+- Our cafes: https://bluetokaicoffee.com/pages/our-cafes
+- Our initiatives: https://bluetokaicoffee.com/pages/our-initiatives
+
+### Representative Estate Pages
+
+The full set of estate pages is in the page sitemap. These are representative.
+
+- Attikan Estate: https://bluetokaicoffee.com/pages/attikan-estate-coffee-farm
+- Kerehaklu Estate: https://bluetokaicoffee.com/pages/kerehaklu-estate
+- Harley Estate: https://bluetokaicoffee.com/pages/harley-estate-farm
+- Sandalwood Estate: https://bluetokaicoffee.com/pages/sandalwood-estate-coffee-farm
+- St. Joseph Estate: https://bluetokaicoffee.com/pages/st-joseph-estate-coffee-farm
+- Riverdale Estate: https://bluetokaicoffee.com/pages/riverdale-estate-farm
+
+## Customer Care
+
+- Contact: https://bluetokaicoffee.com/pages/contact
+- FAQs: https://bluetokaicoffee.com/pages/faqs
+- Returns & cancellations: https://bluetokaicoffee.com/pages/returns-and-cancellations
+- Order tracking: https://bluetokaicoffee.com/pages/tracking
+- Serviceable pincodes: https://bluetokaicoffee.com/pages/serviceable-pincodes
+- Subscription FAQ: https://bluetokaicoffee.com/pages/subscription-faq
+- Equipment warranty: https://bluetokaicoffee.com/pages/equipment-warranty
+
+## Store Policies
+
+- Terms of service: https://bluetokaicoffee.com/policies/terms-of-service
+- Refund policy: https://bluetokaicoffee.com/policies/refund-policy
+- Privacy policy: https://bluetokaicoffee.com/pages/privacy-policy
+
+## Brand & Company
+
+- About us: https://bluetokaicoffee.com/pages/about-us
+- Careers: https://bluetokaicoffee.com/pages/careers
+- Investor relations: https://bluetokaicoffee.com/pages/investors-relations
+- Wholesale / B2B: https://bluetokaicoffee.com/pages/b2b
+- Corporate partnership: https://bluetokaicoffee.com/pages/corporate-partnership
+- Coffee workshops & events: https://bluetokaicoffee.com/pages/coffee-workshop-events
+
+## Representative Product URLs
+
+Use the product sitemap or product JSON pattern for the complete, current catalog. These representative URLs cover all five formats and the coffees agents most often need for comparisons.
+
+- Attikan Estate (roasted & ground): https://bluetokaicoffee.com/products/attikan-estate
+- French Roast (roasted & ground, darkest): https://bluetokaicoffee.com/products/french-roast
+- Silver Oak Cafe Blend (roasted & ground): https://bluetokaicoffee.com/products/silver-oak-cafe-blend
+- Kerehaklu Estate Light (roasted & ground): https://bluetokaicoffee.com/products/kerehaklu-estate-light-1
+- Customised Sampler Pack: https://bluetokaicoffee.com/products/customised-sampler-pack
+- Attikan Estate Easy Pour coffee sachets: https://bluetokaicoffee.com/products/attikan-estate-easy-pour-coffee-sachets
+- Vienna Roast aluminium coffee capsules: https://bluetokaicoffee.com/products/vienna-roast-aluminium-coffee-capsules
+- Silver Oak aluminium coffee capsules: https://bluetokaicoffee.com/products/silver-oak-aluminium-coffee-capsules
+- Classic Bold cold brew cans (ready to drink): https://bluetokaicoffee.com/products/classic-bold-cold-brew-cans
+- Sea Salt Mocha Drop specialty coffee concentrate: https://bluetokaicoffee.com/products/sea-salt-mocha-drop-specialty-coffee-concentrate
+
+## Optional
+
+These URLs are lower priority for general AI answers because they are seasonal, promotional, or likely to change. Prefer the canonical format, roast, brew-method, guide, and customer-care URLs above unless the user specifically asks about offers.
+
+- Deals of the month: https://bluetokaicoffee.com/collections/deals-of-the-month
+- Festive gifting: https://bluetokaicoffee.com/collections/festive-gifting
+
+## Crawl And Citation Notes
+
+- Respect https://bluetokaicoffee.com/robots.txt. Avoid account, cart, checkout, search-result, sorted/filtered collection (`*sort_by*`, `*+*`), preview, and `/policies/` crawl paths.
+- Prefer canonical format / roast / flavour / brew-method collection URLs over filtered or sorted variants.
+- Describe the convenience formats accurately: Drop is a concentrate (made with / crafted from), Easy Pour is ready to brew, cans are ready to drink, capsules brew in a compatible machine. None of these is "instant coffee."
+- Every bag carries a printed roast date — the substantiated freshness proof point. Coffee is roasted fresh in small batches.
+- Treat sourcing and grade claims ("100% arabica", "specialty grade", "direct trade") as estate- and lot-specific; link to the relevant estate or product page rather than generalising.
+- For product recommendations, retrieve live product data immediately before answering because roast availability, price, format, and serviceable pincodes are volatile.
