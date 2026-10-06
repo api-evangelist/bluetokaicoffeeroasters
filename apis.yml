@@ -12,7 +12,7 @@ x-tier: profiled
 x-tier-reason: enrichment pass 2026-09-29 (modular-v1; was harvest)
 specificationVersion: '0.20'
 created: '2026-09-29'
-modified: '2026-09-29'
+modified: '2026-10-06'
 tags:
 - Coffee
 - E-Commerce
@@ -31,6 +31,10 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- url: https://bluetokaicoffee.com/blogs/blue-tokai-coffee-roasters
+  type: Blog
+- url: https://bluetokaicoffee.com/blogs/blue-tokai-coffee-roasters.atom
+  type: BlogRSS
 - type: LLMsTxt
   url: llms/bluetokaicoffeeroasters-llms.txt
 - type: WellKnown
